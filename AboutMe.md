@@ -1,5 +1,3 @@
-# GitHub profile description (About Me)
-
 Welcome to my GitHub profile!
 
 Hi, I'm Prasenjit Mahato
@@ -83,16 +81,6 @@ Always learning, building, automating, and exploring new technologies!
 | python-automation | Python Automation Scripts | [View Repository](https://github.com/PrasenjitM9/python-automation) |
 | ansible-projects | Ansible Playbooks | [View Repository](https://github.com/PrasenjitM9/ansible-projects) |
 | terraform-aws | Terraform Infrastructure Code | [View Repository](https://github.com/PrasenjitM9/terraform-aws) |
-
-| Repository Name       | What to Upload                         |
-|-----------------------|----------------------------------------|
-| aws-cloud-projects    | AWS EKS, EC2, S3, VPC                  |
-| kubernetes-projects   | Kubernetes YAML, Deployments, Services |
-| jenkins-cicd          | Jenkins Pipelines                      |
-| docker-projects       | Dockerfiles and Docker Compose         |
-| python-automation     | Python Automation Scripts              |
-| ansible-projects      | Ansible Playbooks                      |
-| terraform-aws         | Terraform Infrastructure Code          |
 
 ### 🤝 Connect With Me
 
