@@ -73,7 +73,16 @@ I enjoy exploring new technologies, solving infrastructure challenges, and conti
 
 Always learning, building, automating, and exploring new technologies!
 
-### Practical DevOps skills tutoril
+### DevOps & Cloud Projects – GitHub Repository Structure
+| Repository Name | What to Upload | GitHub Repository Link |
+|---|---|---|
+| aws-cloud-projects | AWS EKS, EC2, S3, VPC | [View Repository](https://github.com/PrasenjitM9/aws-cloud-projects) |
+| kubernetes-projects | Kubernetes YAML, Deployments, Services | [View Repository](https://github.com/PrasenjitM9/kubernetes-projects) |
+| jenkins-cicd | Jenkins Pipelines | [View Repository](https://github.com/PrasenjitM9/jenkins-cicd) |
+| docker-projects | Dockerfiles and Compose | [View Repository](https://github.com/PrasenjitM9/docker-projects) |
+| python-automation | Python Automation Scripts | [View Repository](https://github.com/PrasenjitM9/python-automation) |
+| ansible-projects | Ansible Playbooks | [View Repository](https://github.com/PrasenjitM9/ansible-projects) |
+| terraform-aws | Terraform Infrastructure Code | [View Repository](https://github.com/PrasenjitM9/terraform-aws) |
 
 | Repository Name       | What to Upload                         |
 |-----------------------|----------------------------------------|
