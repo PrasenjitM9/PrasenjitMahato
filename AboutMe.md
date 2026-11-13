@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 Hi, I'm Prasenjit Mahato
 
-### 🚀 Senior DevOps Engineer | AWS Cloud | Kubernetes | VMware | Automation
+### Senior DevOps Engineer | AWS Cloud | Kubernetes | VMware | Automation
 
 I'm a Senior DevOps Engineer passionate about Cloud Computing, DevOps Automation, Kubernetes, and Infrastructure Engineering.
 Always learning, building, automating, and exploring new technologies!
@@ -71,4 +71,27 @@ I enjoy exploring new technologies, solving infrastructure challenges, and conti
 * Python Automation
 * Cloud-Native Technologies
 
-Always learning, building, automating, and exploring new technologies! 🚀
+Always learning, building, automating, and exploring new technologies!
+
+### Practical DevOps skills tutoril
+
+| Repository Name       | What to Upload                         |
+|-----------------------|----------------------------------------|
+| aws-cloud-projects    | AWS EKS, EC2, S3, VPC                  |
+| kubernetes-projects   | Kubernetes YAML, Deployments, Services |
+| jenkins-cicd          | Jenkins Pipelines                      |
+| docker-projects       | Dockerfiles and Docker Compose         |
+| python-automation     | Python Automation Scripts              |
+| ansible-projects      | Ansible Playbooks                      |
+| terraform-aws         | Terraform Infrastructure Code          |
+
+### 🤝 Connect With Me
+
+💻 GitHub: https://github.com/PrasenjitM9
+💻 Medium Profile https://medium.com/@prasenjit_shine
+
+---
+
+⭐ Thanks for visiting my profile!
+
+**Keep Learning | Keep Building | Keep Automating 🚀**
